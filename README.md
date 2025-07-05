@@ -20,8 +20,8 @@
 
 <p align="center">
 
-  <img src="ttps://github.com/jairoLAlves/ifbaiano_TI06_AV1/main/fluxograma_verifica_numero.png" alt="Fluxograma do algoritmo" width="600"/>
+  <img src="ttps://github.com/jairoLAlves/ifbaiano_TI06_AV1/blob/main/fluxograma_verifica_numero.png" alt="Fluxograma do algoritmo" width="600"/>
 </p>
 
 ### Etapa 02 -  Construa um algoritmo de computador (em Portugol- Português Estruturado) com base no fluxograma da etapa anterior.
-- [verifica_numero.por](https://github.com/jairoLAlves/ifbaiano_TI06_AV1/main/verifica_numero.por)
+- [verifica_numero.por](https://github.com/jairoLAlves/ifbaiano_TI06_AV1/blob/main/verifica_numero.por)

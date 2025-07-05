@@ -2,7 +2,7 @@
 
 ###  Ferramentas utilizadas: 
 - Python com graphviz
-- Instalação do [graphviz](https://graphviz.org/download/)  localmente
+- Instalação do [graphviz](https://graphviz.org/download/) e [Portugol-Studio](https://univali-lite.github.io/Portugol-Studio/) localmente
 - Extensões do VSCode - [Design Líquido - Linguagens em Português](https://designliquido.com.br/) 
 
 ### Etapa 01 - Elabore um fluxograma que:
